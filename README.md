@@ -8,9 +8,9 @@ MUNstack is built on Frappe, covers all the tech you need to run your Model Unit
 
 ## Team members
 1. [Jerom Palimattom Tom](https://github.com/jeromtom)
-2. [Rithas M K] (https://github.com/rithask)
-3. [Donita Lemek] (https://github.com/donita-lemek)
-4. [Milan George] (https://github.com/milangmatt)
+2. [Rithas M K](https://github.com/rithask)
+3. [Donita Lemek](https://github.com/donita-lemek)
+4. [Milan George](https://github.com/milangmatt)
 
 ## Link to product walkthrough
 [https://mun-stack.frappe.cloud](Check out our site here)
