@@ -13,7 +13,7 @@ MUNstack is built on Frappe, covers all the tech you need to run your Model Unit
 4. [Milan George](https://github.com/milangmatt)
 
 ## Link to product walkthrough
-[https://mun-stack.frappe.cloud](Check out our site here)
+[Check out our site here](https://mun-stack.frappe.cloud)
 
 ## How it Works ?
 MUNstack helps you with mainly three tasks of organising an Model United Nations:
