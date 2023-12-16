@@ -1,0 +1,24 @@
+2023-12-16 22:03:54,030 DEBUG cd frappe-bench && python3 -m venv env
+2023-12-16 22:03:55,390 DEBUG cd frappe-bench && /home/jeromtom/Projects/MUNstack/OruFrappeEdukatte/frappe-bench/env/bin/python -m pip install --quiet --upgrade pip
+2023-12-16 22:03:57,486 DEBUG cd frappe-bench && /home/jeromtom/Projects/MUNstack/OruFrappeEdukatte/frappe-bench/env/bin/python -m pip install --quiet wheel
+2023-12-16 22:03:58,104 LOG Getting frappe
+2023-12-16 22:03:58,104 DEBUG cd frappe-bench/apps && git clone https://github.com/frappe/frappe.git  --depth 1 --origin upstream
+2023-12-16 22:04:02,589 LOG Installing frappe
+2023-12-16 22:04:02,589 DEBUG cd /home/jeromtom/Projects/MUNstack/OruFrappeEdukatte/frappe-bench && /home/jeromtom/Projects/MUNstack/OruFrappeEdukatte/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/jeromtom/Projects/MUNstack/OruFrappeEdukatte/frappe-bench/apps/frappe 
+2023-12-16 22:04:10,882 WARNING cd /home/jeromtom/Projects/MUNstack/OruFrappeEdukatte/frappe-bench && /home/jeromtom/Projects/MUNstack/OruFrappeEdukatte/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/jeromtom/Projects/MUNstack/OruFrappeEdukatte/frappe-bench/apps/frappe  executed with exit code 1
+2023-12-16 22:04:11,894 ERROR There was a problem while creating frappe-bench
+2023-12-16 22:04:16,010 WARNING /home/jeromtom/.local/bin/bench init frappe-bench executed with exit code 1
+2023-12-16 22:04:44,839 INFO /home/jeromtom/.local/bin/bench start
+2023-12-16 22:13:47,933 INFO /home/jeromtom/.local/bin/bench get-app webshop
+2023-12-16 22:13:48,579 LOG Getting webshop
+2023-12-16 22:13:48,579 DEBUG cd ./apps && git clone https://github.com/frappe/webshop.git  --depth 1 --origin upstream
+2023-12-16 22:13:50,079 LOG Installing webshop
+2023-12-16 22:13:50,095 DEBUG cd /home/jeromtom/Projects/MUNstack/OruFrappeEdukatte/frappe-bench && /home/jeromtom/Projects/MUNstack/OruFrappeEdukatte/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/jeromtom/Projects/MUNstack/OruFrappeEdukatte/frappe-bench/apps/webshop 
+2023-12-16 22:13:50,899 DEBUG bench build --app webshop
+2023-12-16 22:13:50,985 INFO /home/jeromtom/.local/bin/bench build --app webshop
+2023-12-16 22:13:51,020 WARNING bench build --app webshop executed with exit code 1
+2023-12-16 22:13:51,020 WARNING /home/jeromtom/.local/bin/bench get-app webshop executed with exit code 1
+2023-12-16 22:15:57,428 INFO /home/jeromtom/.local/bin/bench --site MUNstack install-app webshop
+2023-12-16 22:16:13,920 INFO /home/jeromtom/.local/bin/bench build --app webshop
+2023-12-16 22:16:56,516 INFO /home/jeromtom/.local/bin/bench init
+2023-12-16 22:16:56,520 WARNING /home/jeromtom/.local/bin/bench init executed with exit code 2
